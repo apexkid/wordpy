@@ -42,9 +42,6 @@ def loadWords():
 
 def getFrequencyDict(sequence):
     """
-    Returns a dictionary where the keys are elements of the sequence
-    and the values are integer counts, for the number of times that
-    an element is repeated in the sequence.
 
     sequence: string or list
     return: dictionary
