@@ -1,9 +1,7 @@
-pset4-wordgame
+wordgame py
 ==============
 
-6.00x Problem Set : 04
-
-A simple word game.
+A simple word game in python. Made for fun. 
 to run it follow the below instruction. <br/>
 
 <code> cd WordGame #get inside the folder </code> <br/>
